@@ -212,3 +212,4 @@ pyinstxtractor.py
  *.csv
 enlaces_descargar.csv
 enlaces_descargar_old.csv
+descargas/*
